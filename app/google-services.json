@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827571089748",
+    "project_id": "nudgeapp-9bae5",
+    "storage_bucket": "nudgeapp-9bae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827571089748:android:ffbac20e8836ef7bafd8c1",
+        "android_client_info": {
+          "package_name": "com.mudhut.software.nudge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827571089748-1ob23sghktc01i7rdlmiklfmrlm0ln7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mudhut.software.nudge",
+            "certificate_hash": "666c900ad81e24e1fb1ba6385afcd20388631f31"
+          }
+        },
+        {
+          "client_id": "827571089748-c1enl3u368i3b5ihte074kku042c83us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA44-peuODeety8NskJ3cpDqRy4zYrygLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827571089748-c1enl3u368i3b5ihte074kku042c83us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
